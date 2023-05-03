@@ -63,15 +63,14 @@ Whether you're looking for inspiration for your next meal, trying to use up ingr
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Django][djangoproject.com]][Django-url]
 * [![Python](https://www.python.org/static/community_logos/python-logo-inkscape.svg)](https://www.python.org/)
-* [![Python][Python.org]][Python-url]
-* [![Vue][Vue.js]][Vue-url]
+* [![Django](https://www.djangoproject.com/m/img/logos/django-logo-positive.png)](https://www.djangoproject.com/)
+<!-- * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![JQuery][JQuery.com]][JQuery-url] -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
