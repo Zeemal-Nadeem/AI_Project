@@ -64,6 +64,7 @@ Whether you're looking for inspiration for your next meal, trying to use up ingr
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Django][djangoproject.com]][Django-url]
+* [![Python](https://www.python.org/static/community_logos/python-logo-inkscape.svg)](https://www.python.org/)
 * [![Python][Python.org]][Python-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
