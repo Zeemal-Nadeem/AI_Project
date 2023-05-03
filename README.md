@@ -63,7 +63,7 @@ Whether you're looking for inspiration for your next meal, trying to use up ingr
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Django](https://www.djangoproject.com/m/img/logos/django-logo-small.png)](https://www.djangoproject.com/)
+* [![Django](https://www.djangoproject.com/m/img/logos/django-logo-positive.png)](https://www.djangoproject.com/)
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
