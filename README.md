@@ -55,7 +55,7 @@
 ## About The Project
 Our recipe generator is a tool that allows users to generate unique recipes based on a set of customizable criteria. Using natural language processing techniques and a database of ingredients and cooking techniques, the generator can create a wide variety of dishes, from classic comfort foods to exotic international cuisines.
 
-Whether you're looking for inspiration for your next meal, trying to use up ingredients in your pantry, or just want to try something new, our recipe generator can help. With options to filter by dietary restrictions, cooking time, and complexity level, you can tailor the generated recipes to your preferences and needs.
+Whether you're looking for inspiration for your next meal, trying to use up ingredients in your pantry, or just want to try something new, our recipe generator can help. We hope that our recipe generator will inspire you to explore new flavors and experiment in the kitchen.
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
