@@ -57,7 +57,6 @@ Our recipe generator is a tool that allows users to generate unique recipes base
 
 Whether you're looking for inspiration for your next meal, trying to use up ingredients in your pantry, or just want to try something new, our recipe generator can help. We hope that our recipe generator will inspire you to explore new flavors and experiment in the kitchen.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
