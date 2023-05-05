@@ -98,19 +98,21 @@ This is an example of how to list things you need to use the software and how to
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+See the [TensorFlow install guide](https://www.tensorflow.org/install) for the
+[pip package](https://www.tensorflow.org/install/pip), to
+[enable TPU support](https://www.tensorflow.org/install/tpu), use a
+[Docker container](https://www.tensorflow.org/install/docker), and
+[build from source](https://www.tensorflow.org/install/source).
+
+To install the current release, which includes support for
+[CUDA-enabled TPU cards](https://www.tensorflow.org/install/tpu)
+
+```
+$ pip install tensorflow
+```
+
+To update TensorFlow to the latest version, add `--upgrade` flag to the above
+commands.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
