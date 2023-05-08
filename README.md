@@ -135,7 +135,7 @@ python -m venv venv on cmd
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-<img src="https://github.com/Zeemal-Nadeem/AI_Project/images/sr1.png" alt="sr1">
+<img src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/sr1.png" alt="sr1">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
