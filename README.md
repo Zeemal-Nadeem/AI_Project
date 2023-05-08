@@ -62,6 +62,7 @@ Whether you're looking for inspiration for your next meal, trying to use up ingr
 
 <!-- Concepts -->
 ## Concepts
+<image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/embeddings%20creation.png">
 
 
 ## Built With
