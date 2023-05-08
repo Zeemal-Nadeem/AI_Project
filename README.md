@@ -62,10 +62,13 @@ Whether you're looking for inspiration for your next meal, trying to use up ingr
 
 <!-- Concepts -->
 ## Concepts
-<image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/embeddings%20creation.png" display: block;
+.center {
+  display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;>
+  width: 50%;
+}
+<image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/embeddings%20creation.png" alt="Paris" class="center">
 
 ## Built With
 
