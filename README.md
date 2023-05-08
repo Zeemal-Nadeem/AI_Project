@@ -60,7 +60,6 @@ Whether you're looking for inspiration for your next meal, trying to use up ingr
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- Concepts -->
 ## Concepts
 .center {
   display: block;
@@ -68,7 +67,8 @@ Whether you're looking for inspiration for your next meal, trying to use up ingr
   margin-right: auto;
   width: 50%;
 }
-<image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/embeddings%20creation.png" alt="Paris" class="center">
+<image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/embeddings%20creation.png" alt="Paris" class="center">
+
 
 ## Built With
 
