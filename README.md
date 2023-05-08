@@ -58,8 +58,10 @@ Whether you're looking for inspiration for your next meal, trying to use up ingr
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Concepts
-  <div style = "text-align:center;">
-      <image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/embeddings%20creation.png" width="150" height="80">
+  <p align="center">
+    <image width="200" src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/embeddings%20creation.png" alt="Material Bread logo">
+  </p>
+      
   </div>
 
 ## Built With
