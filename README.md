@@ -148,7 +148,7 @@ Scroll down and find the search field.
 
 <img src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/sr2.png" alt="sr2">
 
-Enter some ingredients in the search field, seaparated by a comma. After entering the available ingredients, hit enter.
+Enter some ingredients in the search field, separated by a comma. After entering the available ingredients, hit enter.
 
 <img src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/sr3.png" alt="sr3">
 
