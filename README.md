@@ -91,12 +91,12 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [To enable the virtual enivironment](https://learnpython.com/blog/how-to-use-virtualenv-python/)
 
 ```
-python -m venv venv on cmd
+  python -m venv venv on cmd
 ```
 * [To install django](https://docs.djangoproject.com/en/4.2/topics/install/)
 
 ```
-$ pip install django
+  $ pip install django
 ```
 
 * Run command pip install django on cmd (https://docs.djangoproject.com/en/4.2/topics/install/)
