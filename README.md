@@ -68,8 +68,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <!-- * [![Python](https://www.python.org/static/community_logos/python-logo-inkscape.svg)](https://www.python.org/) -->
 
-* <a href="https://www.python.org/"><img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python" width="150" height="100"></a>
-* <a href="https://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="Django" width="150" height="100"></a>
+* <a href="https://www.python.org/"><img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python" width="150" height="80"></a>
+* <a href="https://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="Django" width="150" height="80"></a>
 <!-- * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
