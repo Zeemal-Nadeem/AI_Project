@@ -59,7 +59,7 @@ Whether you're looking for inspiration for your next meal, trying to use up ingr
 
 ## Concepts
   <p align="center">
-    <image width="400" height="400" src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/embeddings%20creation.png" alt="Material Bread logo">
+    <image width="400" height="400" src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/ll.png" alt="Material Bread logo">
   </p>
       
   </div>
