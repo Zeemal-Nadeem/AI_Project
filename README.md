@@ -60,7 +60,7 @@ Whether you're looking for inspiration for your next meal, trying to use up ingr
 ## Concepts
 The dataset was reformatted according to the project's specifications, followed by filtering the recipes based on the frequency of ingredient usage. This technique effectively eliminated rare ingredients from consideration.
 
-{%include_relative plot.html%}
+<image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/plotly.png">
 
 The data than divided into 10 chunks, with each chunk containing a fixed length of ingredients, For example, chunk_5 contains only the recipes made with 5 ingredients and so on. Then embeddings neural network was trained on each chunk of data, so that each model can learn from same length vectors. The following diagram shows how a model is trained on the data chunk and how weight matrix of embeddings layeer used to create embedings of a chunk.
 
