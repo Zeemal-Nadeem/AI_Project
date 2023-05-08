@@ -95,7 +95,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * Run command pip install nltk
 * Move to the folder myProject
 * Run command manage.py runserver
-* go to http://localhost:8000/ in brwoser
+* Go to http://localhost:8000/ in brwoser
 
 To install the current release, which includes support for
 [CUDA-enabled TPU cards](https://www.tensorflow.org/install/tpu)
