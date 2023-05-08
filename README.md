@@ -60,14 +60,16 @@ Whether you're looking for inspiration for your next meal, trying to use up ingr
 ## Concepts
 The dataset was reformatted according to the project's specifications, followed by filtering the recipes based on the frequency of ingredient usage. This technique effectively eliminated rare ingredients from consideration.
 
-divide the data into 10 chunks, with each chunk containing a fixed length of ingredients in the "ingredients" column of the dataset.
+The data than divided into 10 chunks, with each chunk containing a fixed length of ingredients, For example, chunk_5 contains only the recipes made with 5 ingredients and so on. Then embeddings neural network was trained on each chunk of data, so that each model can learn from same length vectors. The following diagram shows how
 
-<p align="center">
-  <image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/project%20diagram.jpg" width="500" height="600">
-</p>
 <p align="center">
   <image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/embeddings%20creation.png" width="500" height="350">
 </p>
+  
+<p align="center">
+  <image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/project%20diagram.jpg" width="500" height="600">
+</p>
+
 <p align="center">
   <image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/cosine%20similarities.png" width="500" height="350">
 </p>
