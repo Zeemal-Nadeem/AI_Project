@@ -89,7 +89,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * Create an empty folder (myProject).
 * Clone the folder in the directory.
 * Run command python -m venv venv on cmd (https://learnpython.com/blog/how-to-use-virtualenv-python/)
-* Run command pip install django on cmd (https://www.google.com/search?q=pip+install+django&oq=pip+install+django&aqs=chrome..69i57j0i512l9.4469j0j7&sourceid=chrome&ie=UTF-8)
+* Run command pip install django on cmd (https://docs.djangoproject.com/en/4.2/topics/install/)
 * Run command pip install tensorflow
 * Run command pip install scikit-learn
 * Run command pip install nltk
