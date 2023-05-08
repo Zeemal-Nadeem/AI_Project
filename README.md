@@ -58,7 +58,7 @@ Whether you're looking for inspiration for your next meal, trying to use up ingr
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Concepts
-The dataset was reformatted according to the project's specifications, followed by filtering the recipes based on the frequency of ingredient usage. This technique effectively eliminated rare ingredients from consideration.
+The dataset was reformatted according to the project's specifications, followed by filtering the recipes based on the frequency of ingredient usage. This technique effectively eliminated rare ingredients from consideration. The following plotly plot shows the most commonly used ingredients and their counts.
 
 <image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/plotly.png">
 
