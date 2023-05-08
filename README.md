@@ -58,11 +58,19 @@ Whether you're looking for inspiration for your next meal, trying to use up ingr
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Concepts
-  <p align="center">
-    <image width="400" height="400" src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/embeddings creation.png" alt="Material Bread logo">
-  </p>
-      
-  </div>
+The dataset was reformatted according to the project's specifications, followed by filtering the recipes based on the frequency of ingredient usage. This technique effectively eliminated rare ingredients from consideration.
+
+divide the data into 10 chunks, with each chunk containing a fixed length of ingredients in the "ingredients" column of the dataset.
+
+<p align="center">
+  <image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/project%20diagram.jpg" width="500" height="600">
+</p>
+<p align="center">
+  <image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/embeddings%20creation.png" width="500" height="350">
+</p>
+<p align="center">
+  <image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/cosine%20similarities.png" width="500" height="350">
+</p>
 
 ## Built With
 
