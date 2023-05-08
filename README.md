@@ -84,25 +84,17 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Installation
 
-
-See the [TensorFlow install guide](https://www.tensorflow.org/install) for the
-[pip package](https://www.tensorflow.org/install/pip), to
-[enable TPU support](https://www.tensorflow.org/install/tpu), use a
-[Docker container](https://www.tensorflow.org/install/docker), and
-[build from source](https://www.tensorflow.org/install/source).
+* Create an empty folder (myProject).
+* Clone the folder in the directory.
+* Run command python -m venv venv on cmd
+* Run command pip install django
+* Run command pip install tensorflow
+* Run command pip install scikit-learn
+* Run command pip install nltk
+* Run command pip install django
+* Run command manage.py runserver 
 
 To install the current release, which includes support for
 [CUDA-enabled TPU cards](https://www.tensorflow.org/install/tpu)
