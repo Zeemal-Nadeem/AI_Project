@@ -97,6 +97,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * Run command manage.py runserver
 * Go to http://localhost:8000/ in brwoser
 
+See the [TensorFlow install guide](https://www.tensorflow.org/install) for the
+[pip package](https://www.tensorflow.org/install/pip), to
+[enable GPU support](https://www.tensorflow.org/install/gpu), use a
+[Docker container](https://www.tensorflow.org/install/docker), and
+[build from source](https://www.tensorflow.org/install/source).
 To install the current release, which includes support for
 [CUDA-enabled TPU cards](https://www.tensorflow.org/install/tpu)
 
@@ -106,6 +111,12 @@ $ pip install tensorflow
 
 To update TensorFlow to the latest version, add `--upgrade` flag to the above
 commands.
+
+[To enable the virtual enivironment] (https://learnpython.com/blog/how-to-use-virtualenv-python/)
+
+```
+python -m venv venv on cmd
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
