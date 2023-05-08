@@ -86,13 +86,14 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ### Installation
 
-* Create an empty folder (myProject).
+* Create an empty folder.
 * Clone the folder in the directory.
 * [To enable the virtual enivironment](https://learnpython.com/blog/how-to-use-virtualenv-python/)
 
 ```
     python -m venv venv on cmd
 ```
+
 * [To install django](https://docs.djangoproject.com/en/4.2/topics/install/)
 
 ```
@@ -113,25 +114,19 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ```
 
 * To install the current release of [nltk](https://www.nltk.org/install.html)
+
+```
+    $ pip install nltk
+```
+
 * Move to the folder myProject
-* Run command manage.py runserver
+* [To run the Django development server](https://codinggear.blog/how-to-run-django-development-server/#:~:text=To%20run%20the%20Django%20development%20server%2C%20type%20the%20command%20python,that%20link%20in%20your%20browser.)
+
+```
+    python manage.py runserver
+```
+
 * Go to http://localhost:8000/ in brwoser
-
-See the [TensorFlow install guide](https://www.tensorflow.org/install) for the
-[pip package](https://www.tensorflow.org/install/pip), to
-[enable GPU support](https://www.tensorflow.org/install/gpu), use a
-[Docker container](https://www.tensorflow.org/install/docker), and
-[build from source](https://www.tensorflow.org/install/source).
-
-
-To update TensorFlow to the latest version, add `--upgrade` flag to the above
-commands.
-
-[To enable the virtual enivironment](https://learnpython.com/blog/how-to-use-virtualenv-python/)
-
-```
-python -m venv venv on cmd
-```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
