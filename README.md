@@ -67,7 +67,6 @@ Whether you're looking for inspiration for your next meal, trying to use up ingr
   margin-right: auto;
   width: 50%;>
 
-
 ## Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
