@@ -105,8 +105,13 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ```
     $ pip install tensorflow
 ```
-* Run command pip install tensorflow
-* Run command pip install scikit-learn
+
+* To install the current release of [scikit-learn](http://scikit-learn.org/stable/install.html)
+
+```
+    $ pip install scikit-learn
+```
+
 * Run command pip install nltk
 * Move to the folder myProject
 * Run command manage.py runserver
