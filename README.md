@@ -60,19 +60,23 @@ Whether you're looking for inspiration for your next meal, trying to use up ingr
 ## Concepts
 The dataset was reformatted according to the project's specifications, followed by filtering the recipes based on the frequency of ingredient usage. This technique effectively eliminated rare ingredients from consideration.
 
-The data than divided into 10 chunks, with each chunk containing a fixed length of ingredients, For example, chunk_5 contains only the recipes made with 5 ingredients and so on. Then embeddings neural network was trained on each chunk of data, so that each model can learn from same length vectors. The following diagram shows how
+The data than divided into 10 chunks, with each chunk containing a fixed length of ingredients, For example, chunk_5 contains only the recipes made with 5 ingredients and so on. Then embeddings neural network was trained on each chunk of data, so that each model can learn from same length vectors. The following diagram shows how a model is trained on the data chunk and how weight matrix of embeddings layeer used to create embedings of a chunk.
 
 <p align="center">
   <image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/embeddings%20creation.png" width="500" height="350">
+</p>
+  
+The next thing is to find similarities between user input ingredients and the recipes ingredients of a chunck. The following diagram shows how it is done. The user ingredient vector first transformed into the embedding using relevant models's weight matrix and than cosine similarities of user embeddings and the recipe embeddings calculated and sorted in descending order.
+  
+<p align="center">
+  <image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/cosine%20similarities.png" width="500" height="350">
 </p>
   
 <p align="center">
   <image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/project%20diagram.jpg" width="500" height="600">
 </p>
 
-<p align="center">
-  <image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/cosine%20similarities.png" width="500" height="350">
-</p>
+
 
 ## Built With
 
