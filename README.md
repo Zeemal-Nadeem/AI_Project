@@ -112,7 +112,7 @@ $ pip install tensorflow
 To update TensorFlow to the latest version, add `--upgrade` flag to the above
 commands.
 
-[To enable the virtual enivironment] (https://learnpython.com/blog/how-to-use-virtualenv-python/)
+[To enable the virtual enivironment](https://learnpython.com/blog/how-to-use-virtualenv-python/)
 
 ```
 python -m venv venv on cmd
