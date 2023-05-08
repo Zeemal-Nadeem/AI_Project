@@ -112,7 +112,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
     $ pip install scikit-learn
 ```
 
-* Run command pip install nltk
+* To install the current release of [nltk](https://www.nltk.org/install.html)
 * Move to the folder myProject
 * Run command manage.py runserver
 * Go to http://localhost:8000/ in brwoser
