@@ -193,6 +193,7 @@ Accuracy measurement poses a significant challenge in this project, and two meth
 2) Online testing: This entails allowing users to evaluate the model during real-world usage.
   
 The RecipeGenius model undergoes offline testing to evaluate its accuracy. However, a challenge arises when determining suitable inputs for testing the model. Random ingredient combinations, such as "beef," "oreo," and "mango," do not make sense, rendering it difficult for the model to predict relevant outputs for such queries. To overcome this, a Genetic Algorithm is employed to generate appropriate inputs for evaluation purposes.
+  
 <!-- LICENSE -->
 ## License
 
