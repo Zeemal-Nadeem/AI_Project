@@ -93,8 +93,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * Run command pip install tensorflow
 * Run command pip install scikit-learn
 * Run command pip install nltk
-* Run command pip install django
-* Run command manage.py runserver 
+* Move to the folder myProject
+* Run command manage.py runserver
+* go to http://localhost:8000/ in brwoser
 
 To install the current release, which includes support for
 [CUDA-enabled TPU cards](https://www.tensorflow.org/install/tpu)
