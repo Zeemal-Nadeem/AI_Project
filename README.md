@@ -62,7 +62,10 @@ Whether you're looking for inspiration for your next meal, trying to use up ingr
 
 <!-- Concepts -->
 ## Concepts
-<image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/embeddings%20creation.png" style = "display:block; margin-left:auto; margin-right:auto;" width="600" height="400">
+<image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/embeddings%20creation.png" display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;>
 
 
 ## Built With
