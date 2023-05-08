@@ -183,10 +183,15 @@ Scroll down to see the 10 dots, you can quickly switch between results by pressi
 <img src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/sr5.png" alt="sr5">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- Accuracy -->
 ## Accuracy Measure
+
+Accuracy measurement poses a significant challenge in this project, and two methods are employed to address it:
+
+1) Offline queries: These involve providing predetermined inputs to assess the model's output.
+2) Online testing: This entails allowing users to evaluate the model during real-world usage.
   
+The RecipeGenius model undergoes offline testing to evaluate its accuracy. However, a challenge arises when determining suitable inputs for testing the model. Random ingredient combinations, such as "beef," "oreo," and "mango," do not make sense, rendering it difficult for the model to predict relevant outputs for such queries. To overcome this, a Genetic Algorithm is employed to generate appropriate inputs for evaluation purposes.
 <!-- LICENSE -->
 ## License
 
