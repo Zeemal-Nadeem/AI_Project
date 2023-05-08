@@ -62,14 +62,13 @@ The dataset was reformatted according to the project's specifications, followed 
 
 <image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/plotly.png">
 
-The data than divided into 10 chunks, with each chunk containing a fixed length of ingredients, For example, chunk_5 contains only the recipes made with 5 ingredients and so on. Then embeddings neural network was trained on each chunk of data, so that each model can learn from same length vectors. The following diagram shows how a model is trained on the data chunk and how weight matrix of embeddings layeer used to create embedings of a chunk.
+The data is then divided into 10 chunks, with each chunk containing a fixed number of ingredients. For instance, "chunk_5" includes recipes made with only 5 ingredients, and so forth. Subsequently, an embeddings neural network is trained on each data chunk, ensuring that each model learns from vectors of the same length. The diagram below illustrates the process of training a model on a data chunk and utilizing the weight matrix of the embeddings layer to create embeddings for that specific chunk.
 
 <p align="center">
   <image src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/embeddings%20creation.png" width="500" height="350">
 </p>
   
-
-The next step involves finding similarities between the user's input ingredients and the recipe ingredients within a chunk. The diagram below illustrates the process:
+By employing this methodology, each model can effectively learn and generate embeddings tailored to the specific length of ingredients within its assigned data chunk. The next step involves finding similarities between the user's input ingredients and the recipe ingredients within a chunk. The diagram below illustrates the process:
 
 1) The user ingredient vector is first transformed into an embedding using the weight matrix of the relevant model.
 2) Cosine similarities are calculated between the user embeddings and the recipe embeddings.
