@@ -183,6 +183,7 @@ Scroll down to see the 10 dots, you can quickly switch between results by pressi
 <img src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/sr5.png" alt="sr5">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  
 <!-- Accuracy -->
 ## Accuracy Measure
 
