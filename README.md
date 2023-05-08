@@ -91,15 +91,20 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [To enable the virtual enivironment](https://learnpython.com/blog/how-to-use-virtualenv-python/)
 
 ```
-  python -m venv venv on cmd
+    python -m venv venv on cmd
 ```
 * [To install django](https://docs.djangoproject.com/en/4.2/topics/install/)
 
 ```
-  $ pip install django
+    $ pip install django
 ```
 
-* Run command pip install django on cmd (https://docs.djangoproject.com/en/4.2/topics/install/)
+* To install the current release, which includes support for
+[CUDA-enabled TPU cards](https://www.tensorflow.org/install/tpu)
+
+```
+    $ pip install tensorflow
+```
 * Run command pip install tensorflow
 * Run command pip install scikit-learn
 * Run command pip install nltk
@@ -112,12 +117,7 @@ See the [TensorFlow install guide](https://www.tensorflow.org/install) for the
 [enable GPU support](https://www.tensorflow.org/install/gpu), use a
 [Docker container](https://www.tensorflow.org/install/docker), and
 [build from source](https://www.tensorflow.org/install/source).
-To install the current release, which includes support for
-[CUDA-enabled TPU cards](https://www.tensorflow.org/install/tpu)
 
-```
-$ pip install tensorflow
-```
 
 To update TensorFlow to the latest version, add `--upgrade` flag to the above
 commands.
