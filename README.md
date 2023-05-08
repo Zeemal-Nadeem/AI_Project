@@ -140,7 +140,20 @@ python -m venv venv on cmd
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+Open the site at http://localhost:8000/create. The following interface will be appeared.
 <img src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/sr1.png" alt="sr1">
+
+Scroll down and find the search field.
+<img src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/sr1.png" alt="sr2">
+
+Enter some ingredients in the search field, seaparated by a comma. After entering the available ingredients, hit enter.
+<img src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/sr1.png" alt="sr3">
+
+A slider will open, this shows 10 most relavent recipes, starting from left to right. Use left and right arrows to move slider.
+<img src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/sr1.png" alt="sr4">
+
+Scroll down to see the 10 dots, you can quickly switch between results by pressing any dot.
+<img src="https://github.com/Zeemal-Nadeem/AI_Project/blob/master/images/sr1.png" alt="sr5">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
