@@ -88,13 +88,13 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * Create an empty folder.
 * Clone the folder in the directory.
-* [To enable the virtual enivironment](https://learnpython.com/blog/how-to-use-virtualenv-python/)
+* To enable the [virtual enivironment](https://learnpython.com/blog/how-to-use-virtualenv-python/)
 
 ```
     python -m venv venv on cmd
 ```
 
-* [To install django](https://docs.djangoproject.com/en/4.2/topics/install/)
+* To install [django](https://docs.djangoproject.com/en/4.2/topics/install/)
 
 ```
     $ pip install django
@@ -121,7 +121,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * Move to the folder myProject
 
-* [To run the Django development server](https://codinggear.blog/how-to-run-django-development-server/#:~:text=To%20run%20the%20Django%20development%20server%2C%20type%20the%20command%20python,that%20link%20in%20your%20browser.)
+* To run the [Django development server](https://codinggear.blog/how-to-run-django-development-server/#:~:text=To%20run%20the%20Django%20development%20server%2C%20type%20the%20command%20python,that%20link%20in%20your%20browser.)
 
 ```
     python manage.py runserver
