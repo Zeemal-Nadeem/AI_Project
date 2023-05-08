@@ -120,6 +120,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ```
 
 * Move to the folder myProject
+
 * [To run the Django development server](https://codinggear.blog/how-to-run-django-development-server/#:~:text=To%20run%20the%20Django%20development%20server%2C%20type%20the%20command%20python,that%20link%20in%20your%20browser.)
 
 ```
