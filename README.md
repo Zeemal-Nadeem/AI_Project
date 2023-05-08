@@ -54,9 +54,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Our RecipeGenius is a tool that allows users to find  amazing recipes based on a set of customizable criteria. Using natural language processing techniques and a database of ingredients and cooking techniques, the generator can create a wide variety of dishes, from classic comfort foods to exotic international cuisines.
+Our RecipeGenius is a tool that allows users to find amazing recipes based on a set of customizable criteria. Using natural language processing techniques and a database of ingredients and cooking techniques, the tool is capable of finding a wide variety of dishes, from classic comfort foods to exotic international cuisines.
 
-Whether you're looking for inspiration for your next meal, trying to use up ingredients in your pantry, or just want to try something new, our recipe generator can help. We hope that our recipe generator will inspire you to explore new flavors and experiment in the kitchen.
+Whether you're looking for inspiration for your next meal, trying to use up ingredients in your pantry, or just want to try something new, our tool can help. We hope that our RecipeGenius will inspire you to explore new flavors and experiment in the kitchen.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
